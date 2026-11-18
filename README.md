@@ -1,49 +1,17 @@
+<div align="center">
+
 # Jitendra Choudhary
 
-**Software Engineer | Full-Stack Developer | Product Builder**
+**Software Developer**
 
-I build practical web and mobile products, with a focus on clear experiences and maintainable software.
+Building things for the web &amp; beyond.
 
-## About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,aws,docker,git,github&amp;perline=12&amp;size=42&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,aws,docker,git,github&amp;perline=12&amp;size=42&amp;theme=light">
+  <img alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, Express, PostgreSQL, AWS, Docker, Git, and GitHub" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,aws,docker,git,github&amp;perline=12&amp;size=42&amp;theme=light">
+</picture>
 
-I have **3+ years of software development experience** across frontend, backend, and product engineering. I enjoy turning useful ideas into reliable software that can grow with real needs.
+[LinkedIn](https://www.linkedin.com/in/jitendra-choudhary-42847b226) · [Email](mailto:YOUR_EMAIL_ADDRESS) · [GitHub](https://github.com/flam3z3122)
 
-## Tech Stack
-
-**Frontend**
-
-![TypeScript, React, Vite, Tailwind CSS, and JavaScript](https://skillicons.dev/icons?i=ts,react,vite,tailwind,js&perline=5&theme=light#gh-light-mode-only) ![TypeScript, React, Vite, Tailwind CSS, and JavaScript](https://skillicons.dev/icons?i=ts,react,vite,tailwind,js&perline=5&theme=dark#gh-dark-mode-only)
-
-**Backend**
-
-![Node.js and Express](https://skillicons.dev/icons?i=nodejs,express&perline=2&theme=light#gh-light-mode-only) ![Node.js and Express](https://skillicons.dev/icons?i=nodejs,express&perline=2&theme=dark#gh-dark-mode-only)
-
-**Data**
-
-![Supabase and PostgreSQL](https://skillicons.dev/icons?i=supabase,postgres&perline=2&theme=light#gh-light-mode-only) ![Supabase and PostgreSQL](https://skillicons.dev/icons?i=supabase,postgres&perline=2&theme=dark#gh-dark-mode-only)
-
-**Mobile**
-
-Capacitor · Android
-
-## Featured Projects
-
-### Nitya
-
-A habit-tracking app for the web and Android.
-
-**TypeScript · React · Vite · Tailwind CSS · Capacitor · Supabase**
-
-[Try the live demo](https://todayshabit.netlify.app/)
-
-### Glavo
-
-Salon booking software.
-
-## Currently Exploring
-
-Mobile product experiences and AI-assisted software development.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/jitendra-choudhary-42847b226) · [GitHub](https://github.com/flam3z3122)
+</div>
