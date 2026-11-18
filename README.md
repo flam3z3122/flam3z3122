@@ -12,20 +12,19 @@ I have **3+ years of software development experience** across frontend, backend,
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,js&amp;perline=5&amp;theme=light#gh-light-mode-only" alt="TypeScript, React, Vite, Tailwind CSS, and JavaScript" />
-<img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,js&amp;perline=5&amp;theme=dark#gh-dark-mode-only" alt="TypeScript, React, Vite, Tailwind CSS, and JavaScript" />
+![TypeScript, React, Vite, Tailwind CSS, and JavaScript](https://skillicons.dev/icons?i=ts,react,vite,tailwind,js&perline=5&theme=light#gh-light-mode-only) ![TypeScript, React, Vite, Tailwind CSS, and JavaScript](https://skillicons.dev/icons?i=ts,react,vite,tailwind,js&perline=5&theme=dark#gh-dark-mode-only)
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&amp;perline=2&amp;theme=light#gh-light-mode-only" alt="Node.js and Express" />
-<img src="https://skillicons.dev/icons?i=nodejs,express&amp;perline=2&amp;theme=dark#gh-dark-mode-only" alt="Node.js and Express" />
+![Node.js and Express](https://skillicons.dev/icons?i=nodejs,express&perline=2&theme=light#gh-light-mode-only) ![Node.js and Express](https://skillicons.dev/icons?i=nodejs,express&perline=2&theme=dark#gh-dark-mode-only)
 
 **Data**
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres&amp;perline=2&amp;theme=light#gh-light-mode-only" alt="Supabase and PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=supabase,postgres&amp;perline=2&amp;theme=dark#gh-dark-mode-only" alt="Supabase and PostgreSQL" />
+![Supabase and PostgreSQL](https://skillicons.dev/icons?i=supabase,postgres&perline=2&theme=light#gh-light-mode-only) ![Supabase and PostgreSQL](https://skillicons.dev/icons?i=supabase,postgres&perline=2&theme=dark#gh-dark-mode-only)
 
-**Mobile** · Capacitor · Android
+**Mobile**
+
+Capacitor · Android
 
 ## Featured Projects
 
@@ -35,7 +34,7 @@ A habit-tracking app for the web and Android.
 
 **TypeScript · React · Vite · Tailwind CSS · Capacitor · Supabase**
 
-[View the repository](https://github.com/flam3z3122/Nitya)
+[Try the live demo](https://todayshabit.netlify.app/)
 
 ### Glavo
 
